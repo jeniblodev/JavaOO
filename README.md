@@ -22,3 +22,11 @@ Atividades disponíveis de cada aula:
 - Exercício 02 - Ampliando as impressões na tela;
 - Exercício 03 - Pulando linha;
 - Exercício 01 Variáveis - Cálculo de soma e média usando variáveis;
+
+**Aula 02**
+
+- Exercício 01 - Numeros de 150 a 300 utilizando while
+- Exercício 02 - Soma de 1 até 1000 utilizando while
+- Exercício 03 - Múltiplos de 3, entre 1 e 100 utilizando for
+- Exercício 04 - Fatoriais de 1 a 10 utilizando for
+- Exercício 06 - Série Fibonacci até passar de 100 utilizando while
